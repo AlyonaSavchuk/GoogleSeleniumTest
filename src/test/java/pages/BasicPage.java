@@ -8,4 +8,6 @@ public class BasicPage {
     public void setDriver(WebDriver driver) {
         this.driver = driver;
     }
+
+
 }
